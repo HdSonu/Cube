@@ -1,24 +1,25 @@
 newmtl GShock_v2_CaseSG
 illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
 Ks 0.50 0.50 0.50
 Ns 4.31
+map_Kd GshockCaseV2_Spec.png
+map_kS diffuse.jpg
+
 newmtl GShock_v2_FaceSG
 illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
+map_Kd GshockFaceV2_01.png
+
 newmtl GShock_v2_StrapSG
 illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
 Ks 0.02 0.02 0.02
 Ns 18.00
+map_Kd GshockWatchStrap.png
+map_kS diffuse.jpg
