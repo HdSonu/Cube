@@ -6,7 +6,7 @@ Tf 1.00 1.00 1.00
 map_Kd GshockFace_V1_02_Diff.png
 Ni 1.00
 Ks 0.00 0.00 0.00
-Ns 18.00
+Ns 10.00
 newmtl GShock_v2_FaceSG
 illum 1
 Kd 1.00 1.00 1.00
@@ -14,7 +14,7 @@ Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.00 0.00 0.00
-Ns 18.00
+Ns 10.00
 newmtl GShock_v2_StrapSG
 illum 1
 Kd 1.00 1.00 1.00
@@ -22,7 +22,7 @@ Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.02 0.02 0.02
-Ns 18.00
+Ns 10.00
 newmtl blinn1SG
 illum 1
 Kd 1.00 1.00 1.00
