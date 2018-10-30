@@ -5,6 +5,7 @@ Ka 1.00 1.00 1.00
 Ks 0.50 0.50 0.50
 Ns 4.31
 map_Kd GshockCaseV2_Spec.png
+map_bump GshockCaseV2_Spec.png
 map_kS diffuse.jpg
 
 newmtl GShock_v2_FaceSG
@@ -22,4 +23,5 @@ Ka 1.00 1.00 1.00
 Ks 1.00 1.00 1.00
 Ns 18.00
 map_Kd GshockWatchStrap.png
+map_bump GshockWatchStrap.png
 map_kS diffuse.jpg
