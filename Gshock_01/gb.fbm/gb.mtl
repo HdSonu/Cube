@@ -6,6 +6,7 @@ Ks 0.50 0.50 0.50
 Ns 4.31
 map_Kd GshockCaseV2_Spec.png
 map_kS diffuse.jpg
+map_d diffuse.jpg
 
 newmtl GShock_v2_FaceSG
 illum 4
@@ -23,3 +24,4 @@ Ks 1.00 1.00 1.00
 Ns 18.00
 map_Kd GshockWatchStrap.png
 map_kS diffuse.jpg
+map_d diffuse.jpg
