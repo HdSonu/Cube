@@ -11,8 +11,6 @@ newmtl GShock_v2_FaceSG
 illum 4
 Kd 1.00 1.00 1.00
 Ka 1.00 1.00 1.00
-Tf 1.00 1.00 1.00
-Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
 
@@ -21,8 +19,6 @@ newmtl GShock_v2_StrapSG
 illum 1
 Kd 1.00 1.00 1.00
 Ka 1.00 1.00 1.00
-Tf 1.00 1.00 1.00
-Ni 1.00
 Ks 0.02 0.02 0.02
 Ns 18.00
 
@@ -31,8 +27,6 @@ newmtl blinn1SG
 illum 1
 Kd 1.00 1.00 1.00
 Ka 1.00 1.00 1.00
-Tf 1.00 1.00 1.00
-Ni 1.00
 Ks 0.50 0.50 0.50
 map_Kd GshockCaseV1_Camo_Diff.png
 map_kS diffuse.jpg
