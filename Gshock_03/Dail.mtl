@@ -1,0 +1,21 @@
+newmtl Gshock_02:GShock_CaseSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockFace_V1_02_Diff.png
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Gshock_02:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockCaseV1_Camo_Diff.png
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Gshock_02:blinn2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockStrapV1_Camo_Diff.png
+Ks 0.50 0.50 0.50
+Ns 0.06
