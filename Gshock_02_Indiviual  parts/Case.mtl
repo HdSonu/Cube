@@ -7,6 +7,8 @@ Ni 1.00
 Ks 0.50 0.50 0.50
 newmtl Case:blinn1SG
 illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
 map_Kd GshockCaseV1_Camo_Diff.png
 Ni 1.00
 Ks 0.50 0.50 0.50
