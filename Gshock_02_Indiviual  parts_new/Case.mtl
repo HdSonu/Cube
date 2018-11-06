@@ -1,0 +1,68 @@
+newmtl Buckle:blinn2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockStrapV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Case:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockCaseV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Dail:GShock_CaseSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockFace_V1_02_Diff.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Gshock_02:GShock_CaseSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockFace_V1_02_Diff.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Gshock_02:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockCaseV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Gshock_02:blinn2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockStrapV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Loops:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockCaseV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Strap:blinn1SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockCaseV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Strap:blinn2SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+map_Kd GshockStrapV1_Camo_Diff.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Ni 1.00
